@@ -1,8 +1,12 @@
-> Messager Eric, Albin Crétal
-> 2019
-> LedStrip RGBW
-> INO/C++
+# Team
+- Messager Eric
+- Albin Crétal
 
+## Subject 
+LedStrip RGBW
+
+## Languages
+- INO/C++
 
 # LedStrip
 
